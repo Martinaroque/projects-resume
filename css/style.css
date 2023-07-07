@@ -9,7 +9,6 @@ body {
   width: 100%;
 }
 .aboutePage {
-  margin: 60px auto;
   width: 100%;
 }
 
@@ -58,6 +57,7 @@ p {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: white;
+  text-decoration: none;
 }
 
 .about-link {
